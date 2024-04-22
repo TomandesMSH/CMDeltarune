@@ -7,6 +7,7 @@ Yes. unfortunatelly you heard me right. If you want to run this "game" you need 
 ## Why does it get flagged?
 Because i dont have spare money to bribe Microsoft. (i would need to buy a license).
 Or file up some goofy ass "why did you make this🤓🤓?" form. (i nono wanna)
+
 Source: ->https://www.reddit.com/comments/18s8y0x/my_python_program_is_a_trojan/
 If you still dont believe me, you can use "VirusTotal" and scan for malwares.
 (also.. did you notice that the project is open-sourced? js saying)
