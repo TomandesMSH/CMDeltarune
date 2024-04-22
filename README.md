@@ -15,8 +15,14 @@ you either use a very good antivirus that will actually double check if the file
 haha, glad you asked (no one asked) 
 its.. https://www.patreon.com/tomandes 
 
+# Uhmmmmm what the sigma i cant find no download link
+Look for this on the right!
+![Screenshot_1](https://github.com/TomandesMSH/CMDeltarune/assets/89749814/e53dea25-2278-4a1b-ae62-1bebdcd87ae0)
+
+
 # Do you have any other masterpieces like these?
 Well.. i got some simple, basic and silly projects on my GitHub page, but ussually im making content for my other social platforms.
 You can find them here!
 
 # https://tomandes.wixsite.com/tomandes
+
